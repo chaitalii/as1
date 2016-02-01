@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">cpatel1-FuelTrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="fuel">NEW LOG</string>
+    <string name="new_entry">New Entry</string>
+    <string name="show_date">Date</string>
+    <string name="save_log">Save Log</string>
+    <string name="cancel">BACK</string>
+    <string name="show_station">Station</string>
+    <string name="delete_log">DELETE LOG</string>
+    <string name="show_grade">Grade</string>
+    <string name="show_amount">Fuel</string>
+    <string name="show_odometer">Odometer</string>
+    <string name="show_cost">Cost</string>
+    <string name="unit_cost">Unit Cost</string>
+    <string name="date_hint">yyyy-mm-dd</string>
+    <string name="odo_hint">in kilometres</string>
+    <string name="amount_hint">in litres</string>
+    <string name="unit_hint">in cents per litre</string>
+    <string name="title_activity_add_fuel">Add New Entry</string>
+    <string name="title_activity_edit_fuel">Edit Entry</string>
+    <string name="cents">¢</string>
+
+</resources>
